@@ -7,7 +7,7 @@ public class TestClass : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        print("Hello Git");
     }
 
     // Update is called once per frame
